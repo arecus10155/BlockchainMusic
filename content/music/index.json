@@ -1,0 +1,98 @@
+[
+    {
+      "id": "1410474",
+      "type": "Electronic",
+      "price": "0.10",
+      "title": "EDC Mexico 2022 (LIVE SET)",
+      "AuthorAd": "0x6e8c0C3E598ba1C22016198C45b1114d46Aa2857",
+      "coverImage": "https://creatornode3.audius.co/ipfs/QmcF26aKdV853s8CEXnB4bTQ5kZpUoxaMMiLR351CZsvyC/1000x1000.jpg",
+      "author": "Ville Ruokonen",
+      "link": "/song1.mp3",
+      "link2": "/song1-1.mp3",
+      "createdAt": ""
+    },
+    {
+      "id": "1331625",
+      "type": "Electronic",
+      "price": "0.0006",
+      "title": "Imperial March [Wukileak]",
+      "AuthorAd": "0xde3CDFC07dF3CF350a333AD84170d0818a8038DF",
+      "coverImage": "https://creatornode.audius.co/ipfs/QmVKM4QWSkhRekcKiNJot926KNUeBfmQoik1XTSQmfX6Qn/1000x1000.jpg",
+      "author": "Kurtis Tyler",
+      "link": "/song2.mp3",
+      "link2": "/song2-2.mp3",
+      "createdAt": ""
+    },
+    {
+      "id": "1112431",
+      "type": "Hip-Hop/Rap",
+      "title": "Defeated",
+      "AuthorAd": "0x6e8c0C3E598ba1C22016198C45b1114d46Aa2857",
+      "price": "0.0007",
+      "coverImage": "https://creatornode.audius.co/ipfs/Qmc8XpHJc3azeBktexSzFo8Zusmifgkn1uwvy8ybeNxfkT/1000x1000.jpg",
+      "author": "Ville Ruokonen",
+      "link": "/song1.mp3",
+      "link2": "/song1-1.mp3",
+      "createdAt": ""
+    },
+    {
+      "id": "1112132",
+      "type": "Rock",
+      "title": "Lions Blood(Vocal Topline Contest)",
+      "AuthorAd": "0xde3CDFC07dF3CF350a333AD84170d0818a8038DF",
+      "price": "0.0008",
+      "coverImage": "https://creatornode3.audius.co/ipfs/QmSo277YUKirD5PLw11BYtsM21Z22aQCovLjNoC1gk9qEu/1000x1000.jpg",
+      "author": "Kurtis Tyler",
+      "link": "/song2.mp3",
+      "link2": "/song2-2.mp3",
+      "createdAt": ""
+    },
+    {
+      "id": "1410111",
+      "type": "Electronic",
+      "price": "0.10",
+      "title": "AUXX-Embrace",
+      "AuthorAd": "0x6e8c0C3E598ba1C22016198C45b1114d46Aa2857",
+      "coverImage":"https://creatornode2.audius.co/ipfs/QmfZqoAiM9qW91PD8Lj7s2FdkiXDrY5VVtDUJeArEFbhCt/1000x1000.jpg",
+      "author": "Ville Ruokonen",
+      "link": "/song1.mp3",
+      "link2": "/song1-1.mp3",
+      "createdAt": ""
+    },
+    {
+      "id": "1331222",
+      "type": "Electronic",
+      "price": "0.0006",
+      "title": "Miniland – Front Side",
+      "AuthorAd": "0xde3CDFC07dF3CF350a333AD84170d0818a8038DF",
+      "coverImage": "https://creatornode3.audius.co/ipfs/Qmd5UuQ83cbwN8CV5dGYfMduiECB9nNwfjqsGGdAUoLDJ3/1000x1000.jpg",
+      "author": "Kurtis Tyler",
+      "link": "/song2.mp3",
+      "link2": "/song2-2.mp3",
+      "createdAt": ""
+    },
+    {
+      "id": "1112333",
+      "type": "Hip-Hop/Rap",
+      "title": "Frustrated",
+      "AuthorAd": "0x6e8c0C3E598ba1C22016198C45b1114d46Aa2857",
+      "price": "0.0007",
+      "coverImage": "https://usermetadata.audius.co/ipfs/QmfGjULqkdKBohA2yhNuRBQtWM1Q2thwqYVe4rfSzKDkWM/1000x1000.jpg",
+      "author": "Ville Ruokonen",
+      "link": "/song1.mp3",
+      "link2": "/song1-1.mp3",
+      "createdAt": ""
+    },
+    {
+      "id": "1112444",
+      "type": "Rock",
+      "title": "those nights, last summer",
+      "AuthorAd": "0xde3CDFC07dF3CF350a333AD84170d0818a8038DF",
+      "price": "0.0008",
+      "coverImage": "https://creatornode3.audius.co/ipfs/QmfTn9r5bcWuizA1tgztYKy9RufBWUghmRVwpE6EuTwm9w/1000x1000.jpg",
+      "author": "Kurtis Tyler",
+      "link": "/song2.mp3",
+      "link2": "/song2-2.mp3",
+      "createdAt": ""
+    }
+  ]
